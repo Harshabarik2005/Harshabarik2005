@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Harshabarik2005
-- 👀 I’m interested in coding,app development and machine learning
-- 🌱 I’m currently learning react and flask
-- 💞️ I’m looking to collaborate on small projects cause i am in learning stage
-- 📫 How to reach me [mail me harshabarik2005@gmail.com]
+# 👋 Hi, I’m Harsha Barik  
 
-<!---
-Harshabarik2005/Harshabarik2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **2nd-year Computer Science Engineering Student (2023–2027)** at Ballari Institute of Technology and Management.  
+💻 Passionate about **Software Development, DSA, Web Development, and Machine Learning**.  
+🚀 Actively building projects, solving problems, and learning emerging technologies to grow as a future Software Engineer.  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, Python, C  
+- **Web Development:** HTML, CSS, JavaScript, React (learning), Flask (basic)  
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS, OS  
+- **Tools:** Git, GitHub, VS Code, Linux  
+
+---
+
+📌 Featured Projects
+- 🗨️ Java Multi-Client Chat Application – Real-time chat system using Java Sockets with multi-threading.  
+- 🧩 Crossword Puzzle Generator – Console-based puzzle with hints, scoring, and save/load support.   
+
+---
+
+🏆 Achievements
+- 📈 Consistent academic performer – 8.9 CGPA  
+- 🥉 **3rd Place Winner** – College Ideathon (AI-driven sustainability solution)  
+- 🎤 Volunteer host for Student Induction Program (led and managed 200+ participants)  
+
+---
+
+⭐️ *“Always learning, always building — on the journey to become a Software Engineer at a product-based company.”*  
