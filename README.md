@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshabarik2005
 - 👀 I’m interested in coding,app development and machine learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning react and flask
 - 💞️ I’m looking to collaborate on small projects cause i am in learning stage
 - 📫 How to reach me [mail me harshabarik2005@gmail.com]
 
