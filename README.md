@@ -7,7 +7,7 @@
 <br/>
 
 ### 👨‍💻 The Quick Byte
-I am a 3rd-year Computer Science undergraduate blending cloud-native architecture with AI to solve civic and healthcare problems. I thrive on building scalable systems, optimizing data structures, and deploying models that actually impact the real world. 
+I am a 4th-year Computer Science undergraduate blending cloud-native architecture with AI to solve civic and healthcare problems. I thrive on building scalable systems, optimizing data structures, and deploying models that actually impact the real world. 
 
 - 🎓 **Studying:** B.E. Computer Science & Engineering @ BITM (CGPA: 8.9/10.0 | Class of 2027)
 - 🚁 **Currently Architecting:** A multi-agent AI system for autonomous disaster response using drones.
